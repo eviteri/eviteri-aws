@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eviteriaws-dev-121410-authRole",
+      "UnauthRoleArn": "arn:aws:iam::857753673236:role/amplify-eviteriaws-dev-121410-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::857753673236:role/amplify-eviteriaws-dev-121410-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-eviteriaws-dev-121410-deployment",
+      "UnauthRoleName": "amplify-eviteriaws-dev-121410-unauthRole",
+      "StackName": "amplify-eviteriaws-dev-121410",
+      "StackId": "arn:aws:cloudformation:us-east-2:857753673236:stack/amplify-eviteriaws-dev-121410/51359960-84e0-11eb-bfa8-02c076950c7c",
+      "AmplifyAppId": "d3c8f83crsmzcg"
+    }
+  }
+}
