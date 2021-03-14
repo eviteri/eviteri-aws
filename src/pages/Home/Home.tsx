@@ -42,7 +42,7 @@ const Home = () => {
           themeMode="dark"
           shouldAnimate={true}
           tagLine="web development services"
-          title="Your website does a lot for your business."
+          title="Your website does a lot for your business"
           description="Why not take care of it? After all, an underperforming website can leave your company in the dust. We partner with brands like yours to build, optimize, and grow sites and applications into memorable experiences that inform, inspire, and empower your customers. You're proud of the brand you've built, now you'll be proud of your website, too."
           linkLabel="View our work"
           linkUrl="#viewourwork"
